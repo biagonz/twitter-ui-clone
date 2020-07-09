@@ -21,7 +21,7 @@ const ProfilePage: React.FC = () => {
       </Banner>
 
       <ProfileData>
-        <EditButton> Editar perfil </EditButton>
+        <EditButton outlined> Editar perfil </EditButton>
 
         <h1>Beatriz Gonçalves</h1>
         <h2>@biagonz</h2>
